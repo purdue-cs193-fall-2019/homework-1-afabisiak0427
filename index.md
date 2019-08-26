@@ -1,3 +1,11 @@
+# Alex Fabisiak's First CS193 Homework
+
+- Coding
+- Working with computers
+- Learning new styles and ways to code
+- The different class style
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
